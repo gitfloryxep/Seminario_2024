@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|c:\\users\\fxep\\desktop\\022_sistemaventaaspmvc-main\\ventasweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\ventasweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F29ACB8C-A2B2-4C29-87C1-203E73A13701}|VentasWeb\\VentasWeb.csproj|solutionrelative:ventasweb\\views\\login\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Login\\Index.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Login\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Login\\Index.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Login\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T07:02:28.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "VentasWeb\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Fxep\\Desktop\\022_SistemaVentaAspMVC-main\\VentasWeb\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "VentasWeb\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-09T06:42:29.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
